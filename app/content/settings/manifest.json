@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
+  "name": "Recoil Tracker",
   "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "description": "Recoil.Tracker For CS:GO",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "zh-cn"
 }
